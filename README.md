@@ -3,7 +3,7 @@
 
 ## Student Pass/Fail Prediction System
 
-A machine learning-powered early warning system that predicts student pass/fail outcomes based on historical performance trajectories. This system enables educators to identify at-risk students early in the academic year, providing crucial time for intervention and support.
+A machine learning-powered early warning system that predicts student pass/fail outcomes based on historical performance trajectories in Mathematical Literacy. This system enables educators to identify at-risk students early in the academic year, providing crucial time for intervention and support.
 
 ---
 
