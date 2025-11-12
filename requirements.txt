@@ -4,4 +4,6 @@ numpy
 scikit-learn
 openpyxl
 imblearn
+Plotly
+
 
