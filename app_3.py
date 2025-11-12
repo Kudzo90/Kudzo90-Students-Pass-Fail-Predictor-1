@@ -106,7 +106,7 @@ def predict_at_checkpoint(input_data, checkpoint_name):
 # Streamlit App
 st.set_page_config(page_title="Early Warning System", page_icon="🚨", layout="wide")
 
-st.title("🚨 Trajectory-Based Early Warning System")
+st.markdown("<h1 style='text-align: center;'>🚨 Trajectory-Based Early Warning System</h1>", unsafe_allow_html=True)
 st.markdown("### Predict student outcomes based on historical performance patterns")
 
 # Sidebar - System Information
