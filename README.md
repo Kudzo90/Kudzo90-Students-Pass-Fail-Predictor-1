@@ -4,6 +4,7 @@
 ## Student Pass/Fail Prediction System
 
 A machine learning-powered early warning system that predicts student pass/fail outcomes based on historical performance trajectories in Mathematical Literacy. This system enables educators to identify at-risk students early in the academic year, providing crucial time for intervention and support.
+**For ethical reasons, no real students' data is included in this repo; users should supply their own de-identified/synthetic data**
 
 ---
 
@@ -672,9 +673,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 For questions, issues, or suggestions:
 
-- **Email**: [your-email@example.com]
+- **Email**: [wondere@mthashana.edu.za]/[jewk90@yahoo.co.za]
 - **GitHub Issues**: [repository-url/issues]
-- **Documentation**: [link-to-additional-docs]
+
 
 ---
 
@@ -685,7 +686,7 @@ If you use this system in your research or institution, please cite:
 ```
 Early Warning System for Student Performance Prediction
 Trajectory-Based Machine Learning Approach
-[Your Name/Institution], [Year]
+[WK Ekpe/Mthashana TVET College], [2025]
 ```
 
 ---
@@ -739,6 +740,7 @@ Planned features for future versions:
 - Combine algorithmic predictions with human judgment
 - Be transparent with students about how the system works
 - Regularly audit for bias and fairness
+- **Example data not included; users should supply their own de-identified/synthetic data**
 
 ### Limitations
 - System performance depends on quality and quantity of training data
